@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5p4o3br4pu43"
-path="res://.godot/imported/3.png-5290a93690fc6d06985d909d9e17f612.ctex"
+path="res://.godot/imported/3.png-032888d11cb21d6a7a3514d7cee83f90.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/arts/backgrounds/farm/summer/3.png"
-dest_files=["res://.godot/imported/3.png-5290a93690fc6d06985d909d9e17f612.ctex"]
+source_file="res://himymonsters-assets/arts/backgrounds/farm/summer/3.png"
+dest_files=["res://.godot/imported/3.png-032888d11cb21d6a7a3514d7cee83f90.ctex"]
 
 [params]
 

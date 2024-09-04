@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2ey1hjngbkgp"
-path="res://.godot/imported/chest_1.png-a899e54cafe88a6b86b2419dc5107a78.ctex"
+path="res://.godot/imported/chest_1.png-385ff1d3ef7c292b48434f44252c60ea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/arts/icons/icons/chest_1.png"
-dest_files=["res://.godot/imported/chest_1.png-a899e54cafe88a6b86b2419dc5107a78.ctex"]
+source_file="res://himymonsters-assets/arts/icons/icons/chest_1.png"
+dest_files=["res://.godot/imported/chest_1.png-385ff1d3ef7c292b48434f44252c60ea.ctex"]
 
 [params]
 

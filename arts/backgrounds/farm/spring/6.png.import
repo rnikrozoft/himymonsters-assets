@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5l7j7c0qbk10"
-path="res://.godot/imported/6.png-67a0029c971116532802cc4eeb644a39.ctex"
+path="res://.godot/imported/6.png-2f713c274e99ac0b97ee226a94efb5ca.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/arts/backgrounds/farm/spring/6.png"
-dest_files=["res://.godot/imported/6.png-67a0029c971116532802cc4eeb644a39.ctex"]
+source_file="res://himymonsters-assets/arts/backgrounds/farm/spring/6.png"
+dest_files=["res://.godot/imported/6.png-2f713c274e99ac0b97ee226a94efb5ca.ctex"]
 
 [params]
 

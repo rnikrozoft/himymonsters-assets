@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://cp4s0b8m6pl2d"
-path="res://.godot/imported/Mitr-Bold.ttf-cdc15073a58a012dd59615854354ccbf.fontdata"
+path="res://.godot/imported/Mitr-Bold.ttf-adcdb3e23fab9a60c50c0426515d37b2.fontdata"
 
 [deps]
 
-source_file="res://assets/fonts/Mitr/Mitr-Bold.ttf"
-dest_files=["res://.godot/imported/Mitr-Bold.ttf-cdc15073a58a012dd59615854354ccbf.fontdata"]
+source_file="res://himymonsters-assets/fonts/Mitr/Mitr-Bold.ttf"
+dest_files=["res://.godot/imported/Mitr-Bold.ttf-adcdb3e23fab9a60c50c0426515d37b2.fontdata"]
 
 [params]
 

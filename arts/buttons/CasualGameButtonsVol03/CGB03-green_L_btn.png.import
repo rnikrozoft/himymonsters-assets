@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dyxymy761vp56"
-path="res://.godot/imported/CGB03-green_L_btn.png-b61f0d2063b2e42bb3a5c9baff9907d0.ctex"
+path="res://.godot/imported/CGB03-green_L_btn.png-b32dc8cb02b2f7ce52def7762a69f2e2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/arts/buttons/CasualGameButtonsVol03/CGB03-green_L_btn.png"
-dest_files=["res://.godot/imported/CGB03-green_L_btn.png-b61f0d2063b2e42bb3a5c9baff9907d0.ctex"]
+source_file="res://himymonsters-assets/arts/buttons/CasualGameButtonsVol03/CGB03-green_L_btn.png"
+dest_files=["res://.godot/imported/CGB03-green_L_btn.png-b32dc8cb02b2f7ce52def7762a69f2e2.ctex"]
 
 [params]
 

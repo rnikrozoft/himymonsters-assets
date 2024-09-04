@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xdirvskjt6dh"
-path="res://.godot/imported/0_Minotaur_Idle Blinking_006.png-a8da5226e10a060ab8fcc3b7c3800d97.ctex"
+path="res://.godot/imported/0_Minotaur_Idle Blinking_006.png-6b71a5858e889d1bcbf3edf648580091.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/arts/monsters/Minotaur_2/Idle Blinking/0_Minotaur_Idle Blinking_006.png"
-dest_files=["res://.godot/imported/0_Minotaur_Idle Blinking_006.png-a8da5226e10a060ab8fcc3b7c3800d97.ctex"]
+source_file="res://himymonsters-assets/arts/monsters/Minotaur_2/Idle Blinking/0_Minotaur_Idle Blinking_006.png"
+dest_files=["res://.godot/imported/0_Minotaur_Idle Blinking_006.png-6b71a5858e889d1bcbf3edf648580091.ctex"]
 
 [params]
 

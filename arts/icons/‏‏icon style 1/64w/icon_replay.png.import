@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cea4aye6kapsv"
-path="res://.godot/imported/icon_replay.png-b85d4e1787fa38bb1fc91a820cc62a52.ctex"
+path="res://.godot/imported/icon_replay.png-843950d102608693375c3d3fd68cecda.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/arts/icons/‏‏icon style 1/64w/icon_replay.png"
-dest_files=["res://.godot/imported/icon_replay.png-b85d4e1787fa38bb1fc91a820cc62a52.ctex"]
+source_file="res://himymonsters-assets/arts/icons/‏‏icon style 1/64w/icon_replay.png"
+dest_files=["res://.godot/imported/icon_replay.png-843950d102608693375c3d3fd68cecda.ctex"]
 
 [params]
 

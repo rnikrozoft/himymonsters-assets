@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://cwu4sfuq3pvby"
-path="res://.godot/imported/Mitr-Light.ttf-fc723cae5f73b6a5db66fce957f9fb36.fontdata"
+path="res://.godot/imported/Mitr-Light.ttf-ec34b678017ed142fd7b9fe893f5e58f.fontdata"
 
 [deps]
 
-source_file="res://assets/fonts/Mitr/Mitr-Light.ttf"
-dest_files=["res://.godot/imported/Mitr-Light.ttf-fc723cae5f73b6a5db66fce957f9fb36.fontdata"]
+source_file="res://himymonsters-assets/fonts/Mitr/Mitr-Light.ttf"
+dest_files=["res://.godot/imported/Mitr-Light.ttf-ec34b678017ed142fd7b9fe893f5e58f.fontdata"]
 
 [params]
 

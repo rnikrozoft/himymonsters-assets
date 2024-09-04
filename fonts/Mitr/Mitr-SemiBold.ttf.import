@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://ohf26q7imoth"
-path="res://.godot/imported/Mitr-SemiBold.ttf-815607b160c432aa3fbf3775db3ce0a2.fontdata"
+path="res://.godot/imported/Mitr-SemiBold.ttf-ead009a22654b278fe0c2f2a4ca9210b.fontdata"
 
 [deps]
 
-source_file="res://assets/fonts/Mitr/Mitr-SemiBold.ttf"
-dest_files=["res://.godot/imported/Mitr-SemiBold.ttf-815607b160c432aa3fbf3775db3ce0a2.fontdata"]
+source_file="res://himymonsters-assets/fonts/Mitr/Mitr-SemiBold.ttf"
+dest_files=["res://.godot/imported/Mitr-SemiBold.ttf-ead009a22654b278fe0c2f2a4ca9210b.fontdata"]
 
 [params]
 

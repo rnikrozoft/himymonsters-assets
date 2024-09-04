@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1fymws1aebax"
-path="res://.godot/imported/3.png-75cd14f307290564fa76a37a574f609b.ctex"
+path="res://.godot/imported/3.png-c91f258d17b406d7782af9c11c6b8a4a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/arts/backgrounds/farm/winter/3.png"
-dest_files=["res://.godot/imported/3.png-75cd14f307290564fa76a37a574f609b.ctex"]
+source_file="res://himymonsters-assets/arts/backgrounds/farm/winter/3.png"
+dest_files=["res://.godot/imported/3.png-c91f258d17b406d7782af9c11c6b8a4a.ctex"]
 
 [params]
 

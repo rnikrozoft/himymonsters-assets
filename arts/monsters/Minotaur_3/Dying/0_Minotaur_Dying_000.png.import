@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmb0b3wy7uh47"
-path="res://.godot/imported/0_Minotaur_Dying_000.png-b619cc551de819d0eecfc9f9b89bfe2e.ctex"
+path="res://.godot/imported/0_Minotaur_Dying_000.png-9a9c91b98dfd9aea136b94bfd882c3e2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/arts/monsters/Minotaur_3/Dying/0_Minotaur_Dying_000.png"
-dest_files=["res://.godot/imported/0_Minotaur_Dying_000.png-b619cc551de819d0eecfc9f9b89bfe2e.ctex"]
+source_file="res://himymonsters-assets/arts/monsters/Minotaur_3/Dying/0_Minotaur_Dying_000.png"
+dest_files=["res://.godot/imported/0_Minotaur_Dying_000.png-9a9c91b98dfd9aea136b94bfd882c3e2.ctex"]
 
 [params]
 

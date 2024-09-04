@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ct14gghboob42"
-path="res://.godot/imported/0_Reaper_Man_Dying_002.png-2c06aad734e88c548613219034511c5b.ctex"
+path="res://.godot/imported/0_Reaper_Man_Dying_002.png-099d0e8c71d1c6fb6b24d37ce2fbd625.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/arts/monsters/Reaper_Man_2/Dying/0_Reaper_Man_Dying_002.png"
-dest_files=["res://.godot/imported/0_Reaper_Man_Dying_002.png-2c06aad734e88c548613219034511c5b.ctex"]
+source_file="res://himymonsters-assets/arts/monsters/Reaper_Man_2/Dying/0_Reaper_Man_Dying_002.png"
+dest_files=["res://.godot/imported/0_Reaper_Man_Dying_002.png-099d0e8c71d1c6fb6b24d37ce2fbd625.ctex"]
 
 [params]
 

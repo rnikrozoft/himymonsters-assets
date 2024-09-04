@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cscceg7cisfma"
-path="res://.godot/imported/0_Golem_Dying_011.png-feae2850689104bf3dfa83e0d92176ea.ctex"
+path="res://.godot/imported/0_Golem_Dying_011.png-bd03a9d45d354fcd7a43062808b05a57.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/arts/monsters/Golem_2/Dying/0_Golem_Dying_011.png"
-dest_files=["res://.godot/imported/0_Golem_Dying_011.png-feae2850689104bf3dfa83e0d92176ea.ctex"]
+source_file="res://himymonsters-assets/arts/monsters/Golem_2/Dying/0_Golem_Dying_011.png"
+dest_files=["res://.godot/imported/0_Golem_Dying_011.png-bd03a9d45d354fcd7a43062808b05a57.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1h5gj641wd6k"
-path="res://.godot/imported/0_Fallen_Angels_Dying_003.png-7f648f15fcb3054c2bdf8d799691e528.ctex"
+path="res://.godot/imported/0_Fallen_Angels_Dying_003.png-64932fc7ab740b9487152489585dd30f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/arts/monsters/Fallen_Angels_1/Dying/0_Fallen_Angels_Dying_003.png"
-dest_files=["res://.godot/imported/0_Fallen_Angels_Dying_003.png-7f648f15fcb3054c2bdf8d799691e528.ctex"]
+source_file="res://himymonsters-assets/arts/monsters/Fallen_Angels_1/Dying/0_Fallen_Angels_Dying_003.png"
+dest_files=["res://.godot/imported/0_Fallen_Angels_Dying_003.png-64932fc7ab740b9487152489585dd30f.ctex"]
 
 [params]
 

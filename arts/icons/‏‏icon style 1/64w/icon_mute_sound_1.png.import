@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3w7yk7b3oxqb"
-path="res://.godot/imported/icon_mute_sound_1.png-d64e1df0bd98e3c1826d5813c1a178ba.ctex"
+path="res://.godot/imported/icon_mute_sound_1.png-18562e75c32a48fcdc6f62fd51e2e8e7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/arts/icons/‏‏icon style 1/64w/icon_mute_sound_1.png"
-dest_files=["res://.godot/imported/icon_mute_sound_1.png-d64e1df0bd98e3c1826d5813c1a178ba.ctex"]
+source_file="res://himymonsters-assets/arts/icons/‏‏icon style 1/64w/icon_mute_sound_1.png"
+dest_files=["res://.godot/imported/icon_mute_sound_1.png-18562e75c32a48fcdc6f62fd51e2e8e7.ctex"]
 
 [params]
 

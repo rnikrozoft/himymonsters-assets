@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://uhlyu8domi32"
-path="res://.godot/imported/gem_4.png-809f1eeb43c752afcfb7c81e39746f21.ctex"
+path="res://.godot/imported/gem_4.png-56b9b8ca1483375c49abff5ab08e043d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/arts/icons/icons/gem_4.png"
-dest_files=["res://.godot/imported/gem_4.png-809f1eeb43c752afcfb7c81e39746f21.ctex"]
+source_file="res://himymonsters-assets/arts/icons/icons/gem_4.png"
+dest_files=["res://.godot/imported/gem_4.png-56b9b8ca1483375c49abff5ab08e043d.ctex"]
 
 [params]
 

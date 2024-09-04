@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1cng5adgddn8"
-path="res://.godot/imported/0_Fallen_Angels_Idle Blinking_003.png-8d2df033667728634a9eff62159ee4de.ctex"
+path="res://.godot/imported/0_Fallen_Angels_Idle Blinking_003.png-3042e4c1da3f3bee264e983fc4d54455.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/arts/monsters/Fallen_Angels_1/Idle Blinking/0_Fallen_Angels_Idle Blinking_003.png"
-dest_files=["res://.godot/imported/0_Fallen_Angels_Idle Blinking_003.png-8d2df033667728634a9eff62159ee4de.ctex"]
+source_file="res://himymonsters-assets/arts/monsters/Fallen_Angels_1/Idle Blinking/0_Fallen_Angels_Idle Blinking_003.png"
+dest_files=["res://.godot/imported/0_Fallen_Angels_Idle Blinking_003.png-3042e4c1da3f3bee264e983fc4d54455.ctex"]
 
 [params]
 

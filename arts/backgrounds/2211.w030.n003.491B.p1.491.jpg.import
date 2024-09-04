@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqg5j0wnvqd7v"
-path="res://.godot/imported/2211.w030.n003.491B.p1.491.jpg-d0d0e3b6f36ce619c9ba69d85f8ed1c3.ctex"
+path="res://.godot/imported/2211.w030.n003.491B.p1.491.jpg-7c163adcd822d44334b68b7b559fadbb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/arts/backgrounds/2211.w030.n003.491B.p1.491.jpg"
-dest_files=["res://.godot/imported/2211.w030.n003.491B.p1.491.jpg-d0d0e3b6f36ce619c9ba69d85f8ed1c3.ctex"]
+source_file="res://himymonsters-assets/arts/backgrounds/2211.w030.n003.491B.p1.491.jpg"
+dest_files=["res://.godot/imported/2211.w030.n003.491B.p1.491.jpg-7c163adcd822d44334b68b7b559fadbb.ctex"]
 
 [params]
 

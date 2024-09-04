@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2gys2eqe0g6m"
-path="res://.godot/imported/0_Reaper_Man_Idle Blinking_012.png-42aa1dba51fffe7fab5fe11509233d4f.ctex"
+path="res://.godot/imported/0_Reaper_Man_Idle Blinking_012.png-d8a8c7a585cc0e0acfe98e23531412a9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/arts/monsters/Reaper_Man_3/Idle Blinking/0_Reaper_Man_Idle Blinking_012.png"
-dest_files=["res://.godot/imported/0_Reaper_Man_Idle Blinking_012.png-42aa1dba51fffe7fab5fe11509233d4f.ctex"]
+source_file="res://himymonsters-assets/arts/monsters/Reaper_Man_3/Idle Blinking/0_Reaper_Man_Idle Blinking_012.png"
+dest_files=["res://.godot/imported/0_Reaper_Man_Idle Blinking_012.png-d8a8c7a585cc0e0acfe98e23531412a9.ctex"]
 
 [params]
 

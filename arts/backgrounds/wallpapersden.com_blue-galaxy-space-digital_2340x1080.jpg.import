@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqck1wro3bu1r"
-path="res://.godot/imported/wallpapersden.com_blue-galaxy-space-digital_2340x1080.jpg-828d1232d8de9a1e66bed4e8825d285f.ctex"
+path="res://.godot/imported/wallpapersden.com_blue-galaxy-space-digital_2340x1080.jpg-b026bf677de7324ab2ec4dffac294f0e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/arts/backgrounds/wallpapersden.com_blue-galaxy-space-digital_2340x1080.jpg"
-dest_files=["res://.godot/imported/wallpapersden.com_blue-galaxy-space-digital_2340x1080.jpg-828d1232d8de9a1e66bed4e8825d285f.ctex"]
+source_file="res://himymonsters-assets/arts/backgrounds/wallpapersden.com_blue-galaxy-space-digital_2340x1080.jpg"
+dest_files=["res://.godot/imported/wallpapersden.com_blue-galaxy-space-digital_2340x1080.jpg-b026bf677de7324ab2ec4dffac294f0e.ctex"]
 
 [params]
 
